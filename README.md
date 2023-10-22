@@ -1,0 +1,2 @@
+# podyplomowe
+Prosta pętla
