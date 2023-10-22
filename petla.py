@@ -1,4 +1,4 @@
-# Prosta pętla
+
 x = [1, 3, 10, -1, 10]
 
 for i in x:
